@@ -515,11 +515,11 @@ header{
 }
 #lading-ten .partner-item{
 	/* border:  1px solid #2e6fb2; */
-	padding:  12px 24px;
+	padding:  12px 12px;
 	border-radius: 12px;
 }
 #lading-ten .partner-item img{
-	width: 80%;
+	width: 50%;
 }
 #contact-footer li{
 	margin: 0px 12px;
