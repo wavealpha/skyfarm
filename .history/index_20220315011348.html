@@ -430,7 +430,6 @@
 								<div class="swiper-slide partner-item"><img src="assets/imgs/Partner/5.png"></div>
 								<div class="swiper-slide partner-item"><img src="assets/imgs/Partner/6.png"></div> -->
 							</div>
-							
 
 						</div>
 
@@ -486,7 +485,8 @@ $('.choise-nft').click(function(event) {
 					var swiper_3 = new Swiper(".partnerSwiper", {
 						slidesPerView: 3,
 						spaceBetween: 0,
-						centeredSlides: true,
+						initialSlide: 3,
+						// centeredSlides: true,
 						autoplay: {
 							delay: 1500,
 							disableOnInteraction: false,
@@ -497,7 +497,7 @@ $('.choise-nft').click(function(event) {
 								spaceBetween: 50,
 							},
 							620:{
-								slidesPerView: 3,
+									slidesPerView: 3,
 								spaceBetween: 30,
 							}
 						},
