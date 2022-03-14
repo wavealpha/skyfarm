@@ -120,6 +120,15 @@
 			footer{
 				padding-bottom: 80px;
 	}
+	#contact-footer li{
+		margin: 0px 6px;
+	}
+	#lading-ten{
+		margin-bottom: 200px;
+	}
+	#img-footer{
+		margin-left: 25px!important;
+	}
 	.info-name h1{
 		font-size: 30px !important;
 	}
