@@ -514,7 +514,7 @@ header{
 	text-align: center;
 }
 #lading-ten .partner-item{
-	/* border:  1px solid #2e6fb2; */
+	border:  1px solid #2e6fb2;
 	padding:  12px 24px;
 	border-radius: 12px;
 }
