@@ -340,6 +340,7 @@ header{
 .howToSwiper ul li{
 	position: relative;
 	font-size: 25px;
+	font-weight: 500;
 }
 .howToSwiper ul li:after{
 	position: absolute;
